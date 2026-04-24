@@ -27,4 +27,4 @@ This repository contains all lab exercises and projects completed for the Data S
 
 ## Author
 
-Your Name
+Saviyo Varghese
